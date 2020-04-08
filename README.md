@@ -17,12 +17,12 @@ or in here
 </h2>
 <header>
 <header>
-<br>copy master to file  
-  [your installasion]\ADAPTERv1dot32\projects\[your file name]</br>
+<h3>1. copy master to file  
+  [your installasion]\ADAPTERv1dot32\projects\[your file name]</h3>
 <header>
 <header>  
-<tr>change a www folder with your file or copy do use it
-done..</tr>
+<h4>2. change a www folder with your file or copy do use it
+done..</h4>
   </body>
   
   <body>
