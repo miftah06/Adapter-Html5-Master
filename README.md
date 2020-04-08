@@ -17,8 +17,8 @@ or in here
 </h2>
 <header>
 <header>
-<h3>1. copy master to file  
-  [your installasion]\ADAPTERv1dot32\projects\[your file name]</h3>
+<h3>1. copy master to file  or create new file with directory
+  [your installasion]\ADAPTERv1dot32\projects\[your file name]\AndroidII\</h3>
 <header>
 <header>  
 <h4>2. change a www folder with your file or copy do use it
