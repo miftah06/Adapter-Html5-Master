@@ -17,12 +17,14 @@ or in here
 </h2>
 <header>
 <header>
-<h3>1. copy master to file  or create new file with directory
+<h3>1. copy master [copy to your project] to file  or create new file with directory
   [your installasion]\ADAPTERv1dot32\projects\[your file name]\AndroidII\</h3>
-<header>
+  <header>or</header>
+  <h4> copy AndroidII folder to has destinasion<h4> 
+  
 <header>  
-<h4>2. change a www folder with your file or copy do use it
-done..</h4>
+<h5>2. change a www folder with your file or copy do use it
+done..</h5>
   </body>
   
   <body>
