@@ -1,0 +1,1 @@
+external.invoke('Save:' + document.getElementById('id').value + '|' + document.getElementById('id2').value + '|' + document.getElementById('id3').value + '|' + document.getElementById('id4').value + '|' + document.getElementById('id5').value  + '|' + document.getElementById('id6').value) 
