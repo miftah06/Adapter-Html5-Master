@@ -23,8 +23,7 @@ or in here
   <h4> copy AndroidII folder to has destinasion<h4> 
   
 <header>  
-<h5>2. change a www folder with your file or copy do use it
-done..</h5>
+<h5>2. change a www folder with your file </h5>
   </body>
   
   <body>
