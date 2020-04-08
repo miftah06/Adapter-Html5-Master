@@ -28,5 +28,5 @@ done..</h4>
   <body>
 <header>
 <header>
-<tr>set setting to offile , any you want</tr>
+<tr>set setting to offline with open a setting file config an edit it , any wan you want</tr>
   </body>
